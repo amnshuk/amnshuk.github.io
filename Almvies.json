@@ -1,35 +1,35 @@
 {
     "movies": [
 {
-            "name": "Simmba",
+            "name": "Smba",
             "year": "2018"
         },
 {
-            "name": "Padmaavat",
+            "name": "Padmaat",
             "year": "2018"
         },
 {
-            "name": "Race 3",
+            "name": "Rce 3",
             "year": "2018"
         },
 {
-            "name": "Pad Man",
+            "name": "Pd Man",
             "year": "2018"
         },
 {
-            "name": "Aquaman",
+            "name": "Aqman",
             "year": "2018"
         },
 {
-            "name": "Avengers: Infinity War",
+            "name": "Avenrs: Infity War",
             "year": "2018"
         },
 {
-            "name": "Incredibles 2",
+            "name": "Increbles 2",
             "year": "2018"
         },
 {
-            "name": "Mission: Impossible – Fallout",
+            "name": "Mion: Impoible – Fallout",
             "year": "2018"
         }
   ]
